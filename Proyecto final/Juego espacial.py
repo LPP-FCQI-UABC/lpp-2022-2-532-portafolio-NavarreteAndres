@@ -1,5 +1,8 @@
 import pygame, random
 
+# CONTROLES: #
+# FLECHAS DEL TECLADO: Movimiento de la nave
+# ESPACIO: Disparo de la nave
 # Ventana de juego
 WIDTH = 800
 HEIGHT = 600
